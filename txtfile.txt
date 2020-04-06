@@ -1,0 +1,3 @@
+welcome to my textfile
+This is the first text file i am making in my github account
+i Write this file to understand how github icons and buttons works.
