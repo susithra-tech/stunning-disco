@@ -6,4 +6,3 @@ am going to add this line to this text file
 hello susi,how are you
 
 am going to delete the below line
-  kkkkkk
